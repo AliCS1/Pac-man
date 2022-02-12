@@ -1,5 +1,5 @@
 # Pac-man
-Incomplete Pac-man game, will implement the AI soon.
+In Progress Pac-man game, will implement the AI soon.
 
 The "PacMan V1" file has the incomplete game of Pac-man, the player can move around the map and interact with the walls.
 
